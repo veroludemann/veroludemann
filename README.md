@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Verónica 👋
 
-<!--
-**veroludemann/veroludemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy QA Tester y Diseñadora UX/UI con formación en desarrollo web fullstack. Me apasiona crear experiencias digitales que funcionen y sean agradables de usar.  
 
-Here are some ideas to get you started:
+- 🔍 Me especializo en pruebas funcionales y automatización
+- 🎨 Amo el diseño centrado en el usuario
+- 📚 Siempre aprendiendo cosas nuevas
+- 💼 Actualmente buscando oportunidades en IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas
+HTML, CSS, JavaScript, MySQL  
+Postman, Jira, TestLink, GitHub, Figma, Photoshop, Illustrator  
+
+### 📫 ¿Querés contactarme?
+- 📧 [veronicaludemann67@gmail.com](mailto:veronicaludemann67@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui)
