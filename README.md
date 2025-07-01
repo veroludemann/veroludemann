@@ -1,5 +1,7 @@
 # ¡Hola! Soy Verónica 👋
 
+<img src="https://github.com/veroludemann/veroludemann/blob/main/portadaLinkedinV2.png" alt="Banner" />
+
 Soy QA Tester y Diseñadora UX/UI con formación en desarrollo web fullstack. Me apasiona crear experiencias digitales que funcionen y sean agradables de usar.  
 
 - 🔍 Me especializo en pruebas funcionales y automatización
