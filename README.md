@@ -21,5 +21,6 @@ Postman, Jira, TestLink, GitHub, Figma, Photoshop, Illustrator
 ### 📫 ¿Querés contactarme?
 - 📧 [veronicaludemann67@gmail.com](mailto:veronicaludemann67@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui)
+- 📄 [Mi CV](https://drive.google.com/file/d/1QKoUgxXkoztHZoZ8pHmMK9uBedZGh0iQ/view?usp=sharing)
 
 <p align="center">Gracias por pasar por mi perfil 🙌</p>
